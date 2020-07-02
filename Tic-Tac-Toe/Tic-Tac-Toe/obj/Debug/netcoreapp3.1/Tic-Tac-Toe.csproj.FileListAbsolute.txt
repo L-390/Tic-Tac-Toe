@@ -1,0 +1,11 @@
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.exe
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.deps.json
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.dev.json
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+C:\Users\Liam\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
